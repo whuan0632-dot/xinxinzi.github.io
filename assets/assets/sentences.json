@@ -1,0 +1,361 @@
+[
+  {
+    "chinese": "这是什么？",
+    "pinyin": "zhè shì shén me",
+    "thai": "นี่คืออะไร",
+    "english": "What is this?",
+    "category": "daily"
+  },
+  {
+    "chinese": "我迷路了。",
+    "pinyin": "wǒ mí lù le",
+    "thai": "ฉันหลงทาง",
+    "english": "I am lost.",
+    "category": "daily",
+    "thaiMale": "ผมหลงทาง",
+    "thaiFemale": "ฉันหลงทาง"
+  },
+  {
+    "chinese": "你能帮我吗？",
+    "pinyin": "nǐ néng bāng wǒ ma",
+    "thai": "คุณช่วยฉันได้ไหม",
+    "english": "Can you help me?",
+    "category": "daily",
+    "thaiMale": "คุณช่วยผมได้ไหม",
+    "thaiFemale": "คุณช่วยฉันได้ไหม"
+  },
+  {
+    "chinese": "多少钱？",
+    "pinyin": "duō shǎo qián",
+    "thai": "เท่าไหร่",
+    "english": "How much?",
+    "category": "daily"
+  },
+  {
+    "chinese": "太贵了。",
+    "pinyin": "tài guì le",
+    "thai": "แพงเกินไป",
+    "english": "It's too expensive.",
+    "category": "daily"
+  },
+  {
+    "chinese": "我想要这个。",
+    "pinyin": "wǒ xiǎng yào zhè ge",
+    "thai": "ฉันต้องการสิ่งนี้",
+    "english": "I want this.",
+    "category": "daily",
+    "thaiMale": "ผมต้องการสิ่งนี้",
+    "thaiFemale": "ฉันต้องการสิ่งนี้"
+  },
+  {
+    "chinese": "厕所在哪里？",
+    "pinyin": "cè suǒ zài nǎ lǐ",
+    "thai": "ห้องน้ำอยู่ที่ไหน",
+    "english": "Where is the bathroom?",
+    "category": "daily"
+  },
+  {
+    "chinese": "我不明白。",
+    "pinyin": "wǒ bù míng bai",
+    "thai": "ฉันไม่เข้าใจ",
+    "english": "I don't understand.",
+    "category": "daily",
+    "thaiMale": "ผมไม่เข้าใจ",
+    "thaiFemale": "ฉันไม่เข้าใจ"
+  },
+  {
+    "chinese": "请再说一遍。",
+    "pinyin": "qǐng zài shuō yí biàn",
+    "thai": "กรุณาพูดอีกครั้ง",
+    "english": "Please say it again.",
+    "category": "daily"
+  },
+  {
+    "chinese": "祝你今天愉快。",
+    "pinyin": "zhù nǐ jīn tiān yú kuài",
+    "thai": "ขอให้เป็นวันที่ดี",
+    "english": "Have a nice day.",
+    "category": "daily"
+  },
+  {
+    "chinese": "好久不见。",
+    "pinyin": "hǎo jiǔ bú jiàn",
+    "thai": "ไม่ได้เจอกันนานเลย",
+    "english": "Long time no see.",
+    "category": "daily"
+  },
+  {
+    "chinese": "你叫什么名字？",
+    "pinyin": "nǐ jiào shén me míng zi",
+    "thai": "คุณชื่ออะไร",
+    "english": "What is your name?",
+    "category": "daily"
+  },
+  {
+    "chinese": "很高兴认识你。",
+    "pinyin": "hěn gāo xìng rèn shi nǐ",
+    "thai": "ยินดีที่ได้รู้จัก",
+    "english": "Nice to meet you.",
+    "category": "daily"
+  },
+  {
+    "chinese": "你要去哪里？",
+    "pinyin": "nǐ yào qù nǎ lǐ",
+    "thai": "คุณกำลังจะไปไหน",
+    "english": "Where are you going?",
+    "category": "daily"
+  },
+  {
+    "chinese": "现在几点？",
+    "pinyin": "xiàn zài jǐ diǎn",
+    "thai": "ตอนนี้กี่โมงแล้ว",
+    "english": "What time is it now?",
+    "category": "daily"
+  },
+  {
+    "chinese": "我饿了。",
+    "pinyin": "wǒ è le",
+    "thai": "ฉันหิว",
+    "english": "I'm hungry.",
+    "category": "daily",
+    "thaiMale": "ผมหิว",
+    "thaiFemale": "ฉันหิว"
+  },
+  {
+    "chinese": "我渴了。",
+    "pinyin": "wǒ kě le",
+    "thai": "ฉันหิวน้ำ",
+    "english": "I'm thirsty.",
+    "category": "daily",
+    "thaiMale": "ผมหิวน้ำ",
+    "thaiFemale": "ฉันหิวน้ำ"
+  },
+  {
+    "chinese": "天气很好。",
+    "pinyin": "tiān qì hěn hǎo",
+    "thai": "อากาศดีมาก",
+    "english": "The weather is very good.",
+    "category": "daily"
+  },
+  {
+    "chinese": "今天会下雨吗？",
+    "pinyin": "jīn tiān huì xià yǔ ma",
+    "thai": "วันนี้ฝนจะตกไหม",
+    "english": "Will it rain today?",
+    "category": "daily"
+  },
+  {
+    "chinese": "我喜欢泰语。",
+    "pinyin": "wǒ xǐ huan tài yǔ",
+    "thai": "ฉันชอบภาษาไทย",
+    "english": "I like Thai language.",
+    "category": "daily",
+    "thaiMale": "ผมชอบภาษาไทย",
+    "thaiFemale": "ฉันชอบภาษาไทย"
+  },
+  {
+    "chinese": "我们可以签合同了吗？",
+    "pinyin": "wǒ men kě yǐ qiān hé tong le ma",
+    "thai": "เราเซ็นสัญญาได้หรือยัง",
+    "english": "Can we sign the contract now?",
+    "category": "business"
+  },
+  {
+    "chinese": "我们需要讨论预算。",
+    "pinyin": "wǒ men xū yào tǎo lùn yù suàn",
+    "thai": "เราต้องหารือเกี่ยวกับงบประมาณ",
+    "english": "We need to discuss the budget.",
+    "category": "business"
+  },
+  {
+    "chinese": "市场竞争非常激烈。",
+    "pinyin": "shì chǎng jìng zhēng fēi cháng jī liè",
+    "thai": "การแข่งขันในตลาดรุนแรงมาก",
+    "english": "The market competition is very intense.",
+    "category": "business"
+  },
+  {
+    "chinese": "请发送会议日程。",
+    "pinyin": "qǐng fā sòng huì yì rì chéng",
+    "thai": "กรุณาส่งวาระการประชุม",
+    "english": "Please send the meeting agenda.",
+    "category": "business"
+  },
+  {
+    "chinese": "我们的利润增长了10%。",
+    "pinyin": "wǒ men de lì rùn zēng zhǎng le shí fēn zhī shí",
+    "thai": "กำไรของเราเพิ่มขึ้น 10%",
+    "english": "Our profit increased by 10%.",
+    "category": "business"
+  },
+  {
+    "chinese": "这是一份非常有前途的提案。",
+    "pinyin": "zhè shì yí fèn fēi cháng yǒu qián tú de tí àn",
+    "thai": "นี่เป็นข้อเสนอที่มีอนาคตมาก",
+    "english": "This is a very promising proposal.",
+    "category": "business"
+  },
+  {
+    "chinese": "我们需要在截止日期前完成。",
+    "pinyin": "wǒ men xū yào zài jié zhǐ rì qī qián wán chéng",
+    "thai": "เราต้องทำให้เสร็จก่อนกำหนดส่ง",
+    "english": "We need to finish before the deadline.",
+    "category": "business"
+  },
+  {
+    "chinese": "请确认您的收到。",
+    "pinyin": "qǐng què rèn nín de shōu dào",
+    "thai": "กรุณายืนยันการรับ",
+    "english": "Please confirm your receipt.",
+    "category": "business"
+  },
+  {
+    "chinese": "我希望能达成长期合作。",
+    "pinyin": "wǒ xī wàng néng dá chéng cháng qī hé zuò",
+    "thai": "ฉันหวังว่าจะบรรลุความร่วมมือระยะยาว",
+    "english": "I hope to reach a long-term cooperation.",
+    "category": "business",
+    "thaiMale": "ผมหวังว่าจะบรรลุความร่วมมือระยะยาว",
+    "thaiFemale": "ฉันหวังว่าจะบรรลุความร่วมมือระยะยาว"
+  },
+  {
+    "chinese": "这是我们的最新产品线。",
+    "pinyin": "zhè shì wǒ men de zuì xīn chǎn pǐn xiàn",
+    "thai": "นี่คือสายผลิตภัณฑ์ล่าสุดของเรา",
+    "english": "This is our latest product line.",
+    "category": "business"
+  },
+  {
+    "chinese": "我们需要优化供应链。",
+    "pinyin": "wǒ men xū yào yōu huà gōng yìng liàn",
+    "thai": "เราต้องเพิ่มประสิทธิภาพห่วงโซ่อุปทาน",
+    "english": "We need to optimize the supply chain.",
+    "category": "business"
+  },
+  {
+    "chinese": "客户反馈非常积极。",
+    "pinyin": "kè hù fǎn kuì fēi cháng jī jí",
+    "thai": "ข้อเสนอแนะของลูกค้าเป็นบวกมาก",
+    "english": "Customer feedback is very positive.",
+    "category": "business"
+  },
+  {
+    "chinese": "我们需要进行市场调查。",
+    "pinyin": "wǒ men xū yào jìn xíng shì chǎng diào chá",
+    "thai": "เราต้องทำการสำรวจตลาด",
+    "english": "We need to conduct market research.",
+    "category": "business"
+  },
+  {
+    "chinese": "这个项目的投资回报率很高。",
+    "pinyin": "zhè ge xiàng mù de tóu zī huí bào lǜ hěn gāo",
+    "thai": "ผลตอบแทนจากการลงทุนของโครงการนี้สูงมาก",
+    "english": "The ROI of this project is very high.",
+    "category": "business"
+  },
+  {
+    "chinese": "我们需要更多的人手。",
+    "pinyin": "wǒ men xū yào gèng duō de rén shǒu",
+    "thai": "เราต้องการกำลังคนเพิ่มขึ้น",
+    "english": "We need more manpower.",
+    "category": "business"
+  },
+  {
+    "chinese": "请审阅附件中的报告。",
+    "pinyin": "qǐng shěn yuè fù jiàn zhōng de bào gào",
+    "thai": "กรุณาตรวจสอบรายงานในไฟล์แนบ",
+    "english": "Please review the report in the attachment.",
+    "category": "business"
+  },
+  {
+    "chinese": "我们需要降低成本。",
+    "pinyin": "wǒ men xū yào jiàng dī chéng běn",
+    "thai": "เราต้องลดต้นทุน",
+    "english": "We need to reduce costs.",
+    "category": "business"
+  },
+  {
+    "chinese": "这个策略被证明是有效的。",
+    "pinyin": "zhè ge cè lüè bèi zhèng míng shì yǒu xiào de",
+    "thai": "กลยุทธ์นี้ได้รับการพิสูจน์แล้วว่าได้ผล",
+    "english": "This strategy proved to be effective.",
+    "category": "business"
+  },
+  {
+    "chinese": "我们需要保持透明度。",
+    "pinyin": "wǒ men xū yào bǎo chí tòu míng dù",
+    "thai": "เราต้องรักษาความโปร่งใส",
+    "english": "We need to maintain transparency.",
+    "category": "business"
+  },
+  {
+    "chinese": "这是一次成功的谈判。",
+    "pinyin": "zhè shì yí cì chéng gōng de tán pàn",
+    "thai": "นี่เป็นการเจรจาที่ประสบความสำเร็จ",
+    "english": "This was a successful negotiation.",
+    "category": "business"
+  },
+  {
+    "chinese": "这项研究具有重要的学术价值。",
+    "pinyin": "zhè xiàng yán jiū jù yǒu zhòng yào de xué shù jià zhí",
+    "thai": "งานวิจัยนี้มีคุณค่าทางวิชาการที่สำคัญ",
+    "english": "This research has significant academic value.",
+    "category": "exam"
+  },
+  {
+    "chinese": "我们需要分析实验数据。",
+    "pinyin": "wǒ men xū yào fèn xī shí yàn shù jù",
+    "thai": "เราต้องวิเคราะห์ข้อมูลการทดลอง",
+    "english": "We need to analyze the experimental data.",
+    "category": "exam"
+  },
+  {
+    "chinese": "根据目前的理论，这很难解释。",
+    "pinyin": "gēn jù mù qián de lǐ lùn zhè hěn nán jiě shì",
+    "thai": "ตามทฤษฎีปัจจุบัน เรื่องนี้อธิบายได้ยาก",
+    "english": "According to current theory, this is hard to explain.",
+    "category": "exam"
+  },
+  {
+    "chinese": "这个结论是基于大量证据的。",
+    "pinyin": "zhè ge jié lùn shì jī yú dà liàng zhèng jù de",
+    "thai": "ข้อสรุปนี้อิงตามหลักฐานจำนวนมาก",
+    "english": "This conclusion is based on extensive evidence.",
+    "category": "exam"
+  },
+  {
+    "chinese": "我们需要考虑不同的视角。",
+    "pinyin": "wǒ men xū yào kǎo lǜ bù tóng de shì jiǎo",
+    "thai": "เราต้องพิจารณามุมมองที่แตกต่างกัน",
+    "english": "We need to consider different perspectives.",
+    "category": "exam"
+  },
+  {
+    "chinese": "环境污染是一个全球性问题。",
+    "pinyin": "huán jìng wū rǎn shì yí gè quán qiú xìng wèn tí",
+    "thai": "มลพิษทางสิ่งแวดล้อมเป็นปัญระดับโลก",
+    "english": "Environmental pollution is a global issue.",
+    "category": "exam"
+  },
+  {
+    "chinese": "这项政策引起了广泛的争论。",
+    "pinyin": "zhè xiàng zhèng cè yǐn qǐ le guǎng fàn de zhēng lùn",
+    "thai": "นโยบายนี้ก่อให้เกิดการถกเถียงกันอย่างกว้างขวาง",
+    "english": "This policy has caused widespread debate.",
+    "category": "exam"
+  },
+  {
+    "chinese": "科学技术正在迅速发展。",
+    "pinyin": "kē xué jì shù zhèng zài xùn sù fā zhǎn",
+    "thai": "วิทยาศาสตร์และเทคโนโลยีกำลังพัฒนาอย่างรวดเร็ว",
+    "english": "Science and technology are developing rapidly.",
+    "category": "exam"
+  },
+  {
+    "chinese": "我们需要保护生物多样性。",
+    "pinyin": "wǒ men xū yào bǎo hù shēng wù duō yàng xìng",
+    "thai": "เราต้องปกป้องความหลากหลายทางชีวภาพ",
+    "english": "We need to protect biodiversity.",
+    "category": "exam"
+  }
+]
